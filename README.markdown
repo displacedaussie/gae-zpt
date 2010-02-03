@@ -54,4 +54,4 @@ For any existing (or new) projects you have, just take the 'zope' directory from
 This example application will be expanded and is deployed [here][2].
 
   [1]: http://github.com/displacedaussie/gae-zpt
-  [2]: gae-zpt.appspot.com
+  [2]: http://gae-zpt.appspot.com

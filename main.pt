@@ -1,0 +1,10 @@
+<html> 
+  <body> 
+    <h1>Hello World</h1>
+    <div tal:condition="python:foo == 'bar'"> 
+      <ul> 
+        <li tal:repeat="item rows" tal:content="item" /> 
+      </ul> 
+    </div>
+  </body> 
+</html>

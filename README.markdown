@@ -51,4 +51,7 @@ I've created a basic GAE application that does this and you can [download it][1]
 
 For any existing (or new) projects you have, just take the 'zope' directory from the example application and use it as described above. 
 
+This example application will be expanded and is deployed [here][2].
+
   [1]: http://github.com/displacedaussie/gae-zpt
+  [2]: gae-zpt.appspot.com
